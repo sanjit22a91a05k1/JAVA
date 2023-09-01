@@ -1,0 +1,15 @@
+import java.util.Scanner;
+public class add
+{
+    public static void main(String [] avr)
+    {
+        int a, b,sum;
+        Scanner s=new Scanner(System.in);
+        a=s.nextInt();
+        b=s.nextInt();
+        sum=a+b;
+        System.out.print("Sum of two number is =" + sum);
+        
+        
+    }
+}
