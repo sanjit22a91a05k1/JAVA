@@ -1,0 +1,7 @@
+1)	public class first
+ {
+     public static void main(String[] sanjit)
+    {
+       System.out.print("Sanjit das");
+    }
+ }
